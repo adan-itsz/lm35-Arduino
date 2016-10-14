@@ -1,0 +1,9 @@
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\bin\Debug\graficaTemperatura.exe.config
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\bin\Debug\graficaTemperatura.exe
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\bin\Debug\graficaTemperatura.pdb
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\obj\Debug\graficaTemperatura.csprojResolveAssemblyReference.cache
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\obj\Debug\graficaTemperatura.Form1.resources
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\obj\Debug\graficaTemperatura.Properties.Resources.resources
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\obj\Debug\graficaTemperatura.csproj.GenerateResource.Cache
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\obj\Debug\graficaTemperatura.exe
+c:\users\adán\documents\visual studio 2015\Projects\graficaTemperatura\graficaTemperatura\obj\Debug\graficaTemperatura.pdb

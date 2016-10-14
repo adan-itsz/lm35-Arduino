@@ -30,13 +30,15 @@ void loop() {
  float Fahr=fahrenheit(centigra);
  delay(1000);
  if(bandera){
- Serial.println("Temperatura");
- Serial.println("Centigrados\t Kelvin\t Fahrenheit");
+ //Serial.println("Temperatura");
+// Serial.println("Centigrados\t Kelvin\t Fahrenheit");
   delay(200);
   bandera=false;
  }
  else{
-  delay(2000);
-  Serial.println(String (centigra)+"\t\t"+ String(Kelvin)+ "\t\t"+String( Fahr));
+  delay(1000);
+//  Serial.println(String (centigra)+"\t\t"+ String(Kelvin)+ "\t\t"+String( Fahr));
+Serial.println(centigra);
+
   }
 }
